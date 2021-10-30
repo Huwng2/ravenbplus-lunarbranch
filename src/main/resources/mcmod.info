@@ -1,0 +1,15 @@
+[
+{
+  "modid": "lunarkeystrokesmod",
+  "name": "LunarKeystrokesMod",
+  "description": "Shows your keystrokes and CPS ingame. | Made with <3 by Kopamed",
+  "version": "b1",
+  "url": "https://github.com/Kopamed",
+  "updateUrl": "",
+  "authorList": ["Kopamed"],
+  "credits": "My discord server for convincing me to do this",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
